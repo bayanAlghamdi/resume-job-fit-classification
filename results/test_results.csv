@@ -1,0 +1,5 @@
+Method,Test data,Pairs,Accuracy,Macro F1
+Method 1: TF-IDF + LR,Full test,1108,0.6435,0.6455
+Method 1: TF-IDF + LR,Low-overlap subset,294,0.6497,0.6109
+Method 2: MiniLM + LR,Full test,1108,0.6255,0.6266
+Method 2: MiniLM + LR,Low-overlap subset,294,0.5986,0.5567
