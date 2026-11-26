@@ -2,7 +2,7 @@
 
 ARTI 404 – Natural Language Processing | Imam Abdulrahman Bin Faisal University | Group 9
 
-**Team:** Bayan Alghamdi, Linah Nashir, Ghala Alsharidah, Lojain Alamri
+**Team:** Bayan Alghamdi, Lojain Alamri, Linah Nashir, Ghala Alsharidah
 **Instructor:** Dr. Hayat Alfaghum
 
 ## Project overview
